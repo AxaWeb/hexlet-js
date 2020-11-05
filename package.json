@@ -16,6 +16,10 @@
   "bugs": {
     "url": "https://github.com/AxaWeb/hexlet-js/issues"
   },
-  "homepage": "https://github.com/AxaWeb/hexlet-js#readme"
+  "homepage": "https://github.com/AxaWeb/hexlet-js#readme",
+  "dependencies": {
+    "loader": "^2.1.1",
+    "lodash": "^4.17.20",
+    "react": "^17.0.1"
+  }
 }
-
