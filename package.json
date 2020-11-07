@@ -1,7 +1,6 @@
 {
   "name": "hexlet",
   "version": "1.0.0",
-  "type": "module",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
   "scripts": {
@@ -23,6 +22,9 @@
     "react": "^17.0.1"
   },
   "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
     "prettier": "^2.1.2"
   }
 }
